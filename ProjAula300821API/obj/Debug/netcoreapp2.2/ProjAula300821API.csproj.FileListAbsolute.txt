@@ -1,0 +1,14 @@
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\bin\Debug\netcoreapp2.2\ProjAula300821API.deps.json
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\bin\Debug\netcoreapp2.2\ProjAula300821API.runtimeconfig.json
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\bin\Debug\netcoreapp2.2\ProjAula300821API.runtimeconfig.dev.json
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\bin\Debug\netcoreapp2.2\ProjAula300821API.dll
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.csprojAssemblyReference.cache
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.csproj.CoreCompileInputs.cache
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.RazorAssemblyInfo.cache
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.RazorAssemblyInfo.cs
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.AssemblyInfoInputs.cache
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.AssemblyInfo.cs
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.RazorTargetAssemblyInfo.cache
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\bin\Debug\netcoreapp2.2\ProjAula300821API.pdb
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.dll
+C:\Users\mdsto\source\repos\ProjAula300821API\ProjAula300821API\obj\Debug\netcoreapp2.2\ProjAula300821API.pdb
